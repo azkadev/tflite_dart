@@ -33,6 +33,6 @@ DynamicLibrary tflitelib = () {
   } else if (Platform.isIOS) {
     return DynamicLibrary.process();
   } else {
-    return DynamicLibrary.open('libtensorflowlite_c.so');
+    return DynamicLibrary.open("/home/hexaminate/Documents/HEXAMINATE/app/tflite_dart/libtensorflowlite_c.so");
   }
 }();

@@ -1,3 +1,3 @@
 # Tensor Flow Lite
 
-A library for interact with tflite on cross platform
+Library untuk menggunakan tensorflow lite di dart di berbagai platform
