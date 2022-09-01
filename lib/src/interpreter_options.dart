@@ -2,7 +2,7 @@ import 'dart:ffi';
 import 'dart:io';
 
 import 'package:quiver/check.dart';
-import '../tflite_flutter.dart';
+import '../tflite_dart.dart';
 import 'bindings/interpreter_options.dart';
 
 /// TensorFlowLite interpreter options.
